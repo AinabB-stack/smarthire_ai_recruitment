@@ -1,0 +1,6 @@
+{
+  "name": "SmartHire",
+  "description": "AI-powered recruitment screening web app with candidate matching and automated message drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
