@@ -2,7 +2,8 @@ Table of Contents
 
 🤖 SmartHire — AI-Powered Recruitment Screening Platform
 An AI-powered recruitment screening app that instantly scores job applicants against a role’s requirements and drafts candidate communications automatically.
-🔗 Live App: https://preeminent-torte-4a35d3.netlify.app 📂 GitHub Repository: https://github.com/AinabB-stack/smarthire_ai_recruitment
+🔗 Live App: https://preeminent-torte-4a35d3.netlify.app
+📂 GitHub Repository: https://github.com/AinabB-stack/smarthire_ai_recruitment
 ________________________________________
 📋 Table of Contents
 •	What It Does & The Problem It Solves
@@ -16,8 +17,11 @@ ________________________________________
 ________________________________________
 📌 What It Does & The Problem It Solves
 SmartHire is a recruitment screening web app that uses AI to automatically evaluate job applicants against a job’s requirements — instead of a recruiter manually reading through every single resume.
+
 The real problem: When a company posts a single job opening, it can receive hundreds or even thousands of applications. Recruiters simply don’t have the time to manually read every CV and compare it against the required skills — good candidates often get missed, and the process takes days or weeks.
+
 Who it’s for: Recruiters and hiring teams (the “Recruiter Portal”) who need to quickly identify the best-fit candidates, and job seekers/students (the “Candidate Portal”) who want instant, transparent feedback on how well they match a role — instead of waiting weeks for a reply that may never come.
+
 SmartHire solves this by having an AI model instantly score every applicant against the job’s required skills and description the moment they apply, sort candidates by match score automatically, and even draft the follow-up communication (interview invite, rejection, or offer) for the recruiter — turning a process that takes hours into one that takes seconds.
 ________________________________________
 🔗 Live Deployed URL
